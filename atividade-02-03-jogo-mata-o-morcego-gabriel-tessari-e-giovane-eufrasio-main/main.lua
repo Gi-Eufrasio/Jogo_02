@@ -8,6 +8,7 @@ function love.load()
   eixo_y = 100
   eixo_y_limite = 500
   eixo_andar_controle_y = false
+  eixo_x
 end
 
 function love.draw()
